@@ -1,4 +1,4 @@
-# DevSecOps: OpenAI Chatbot UI Deployment in EKS with Jenkins and Terraform
+#  OpenAI Chatbot UI Deployment in EKS with Jenkins and Terraform
 
 ![text](https://imgur.com/MdxoqmL.png)
 
@@ -523,6 +523,7 @@ pipeline{
 ```go
 terraform destroy -auto-approve -var-file=variables.tfvars
 ```
+
 
 
 
