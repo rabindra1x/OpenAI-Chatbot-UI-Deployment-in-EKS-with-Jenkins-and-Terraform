@@ -39,7 +39,7 @@ By implementing DevSecOps practices and leveraging modern technologies like Kube
 **GITHUB REPO**: [Chatbot-UI](https://github.com/NotHarshhaa/DevOps-Projects/tree/master/DevOps-Project-28/Chatbot-UI)
 
 ```
-git clone https://github.com/NotHarshhaa/DevOps-Projects/DevOps-Project-28/Chatbot-UI
+git clone https://github.com/rabindra1x/OpenAI-Chatbot-UI-Deployment-in-EKS-with-Jenkins-and-Terraform.git
 cd Jenkins-Server-TF
 ```
 
@@ -523,6 +523,7 @@ pipeline{
 ```go
 terraform destroy -auto-approve -var-file=variables.tfvars
 ```
+
 
 
 
